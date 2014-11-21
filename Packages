@@ -7,6 +7,6 @@ Description: Force switch between SMS and iMessage. Press and hold Send to switc
 Maintainer: Teggers
 Author: Teggers
 Section: Tweaks
-Size: 6584
+Size: 6040
 Filename: ./deb_files/com.teggers.msgserviceswitch_1.0.2-2_iphoneos-arm.deb
-MD5Sum: edd9d5fa4b6987c31aba118b34b2e823
+MD5Sum: f19c31d330e96b35f9a97fa89acddf54
