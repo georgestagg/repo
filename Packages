@@ -1,7 +1,7 @@
 Package: com.teggers.msgserviceswitch
 Name: MsgServiceSwitch
 Depends: mobilesubstrate
-Version: 1.0.3
+Version: 1.0.3-1
 Architecture: iphoneos-arm
 Description: Force switch between SMS and iMessage. Press and hold Send to switch.
 Maintainer: Teggers
