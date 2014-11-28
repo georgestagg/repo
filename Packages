@@ -10,3 +10,15 @@ Section: Tweaks
 Size: 6062
 Filename: ./deb_files/com.teggers.msgserviceswitch_1.0.3-1_iphoneos-arm.deb
 MD5Sum: f1fd5304e3a8736bdd706e9f5dcbce54
+Package: com.teggers.msgserviceswitch
+Name: MsgServiceSwitch
+Depends: mobilesubstrate
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Description: Force switch between SMS and iMessage. Press and hold Send to switch.
+Maintainer: Teggers
+Author: Teggers
+Section: Tweaks
+Size: 6062
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.0.3-1_iphoneos-arm.deb
+MD5Sum: f1fd5304e3a8736bdd706e9f5dcbce54
