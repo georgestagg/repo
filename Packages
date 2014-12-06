@@ -1,4 +1,20 @@
 Package: com.teggers.messagecount
+Version: 1.0.1-11
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: .//deb_files/com.teggers.messagecount_1.0.1-11_iphoneos-arm.deb
+Size: 7260
+MD5sum: 30a7d6667ec519adad11389ad88dbc61
+SHA1: 36fb43fb19565097adc4bfae33326824122a664b
+SHA256: 9cf3af7ca0ab60305621af08c72c45af4ade709e0d5fe325aa1c916972904b87
+Section: Tweaks
+Description: Show number of messages next to contact names in MobileSMS.
+Author: Teggers
+Name: MessageCount
+
+Package: com.teggers.messagecount
 Version: 1.0.1-9
 Architecture: iphoneos-arm
 Maintainer: Teggers
