@@ -78,6 +78,22 @@ Description: Show number of messages next to contact names in MobileSMS.
 Author: Teggers
 Name: MessageCount
 
+Package: com.teggers.msgloadall
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: .//deb_files/com.teggers.msgloadall_0.0.1-3_iphoneos-arm.deb
+Size: 4668
+MD5sum: 0dbc34239acfde93ab9a3821abe9eece
+SHA1: fd791376f495188a3957e5870ee1458dc622ec47
+SHA256: 0ffd3c61d1a3d249075e27b81b2ae9102cef8715fe944fc26520281774ab1803
+Section: Tweaks
+Description: Load all the messages in a conversation. Option appears under details.
+Author: Teggers
+Name: MsgLoadAll
+
 Package: com.teggers.msgserviceswitch
 Version: 1.0.1-7
 Architecture: iphoneos-arm
