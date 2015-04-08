@@ -177,3 +177,40 @@ Description: Force switch between SMS and iMessage. Press and hold Send to switc
 Author: Teggers
 Name: MsgServiceSwitch
 
+Package: dsniff
+Version: 2.4b2-1
+Architecture: iphoneos-arm
+Maintainer: Trcx <trcx528@gmail.com>
+Conflicts: org.mulliner.dsniff
+Replaces: org.mulliner.dsniff
+Filename: .//deb_files/dsniff.deb
+Size: 2110904
+MD5sum: 9b7c8d02c2bc3fd25317e447b95e7df8
+SHA1: 76391b226237a5f7493c1cf9d3312d6b011fee53
+SHA256: 06fdbc3984b1f92dbbdec1d0c3e81721a6758684aafdfb058d417479b1651d15
+Section: Hacktools
+Description: Dsniff Suite Of Pentesting Tools For iPhone
+ dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+Tag: role:: hacker
+Author: Dug Song <dugsong@monkey.org>
+Depiction: http://ininjas.com/forum/index.php?topic=283;theme=14
+Name: Dsniff Suite
+Sponsor: iNinjas <repo@ininjas.com>
+
+Package: scapy
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: A12danrulz
+Depends: python, libpcap, libdnet, pylibdnet, pylibpcap, pycrypto
+Filename: .//deb_files/scapy.deb
+Size: 217208
+MD5sum: 331b128dcecd678c93f155ce444a374f
+SHA1: 9901b299b3c08cd1ba57a25d8711f3fa72ab948d
+SHA256: b94db74a632438d4a0cdb12664768b0858154c5355aedf93d08e1718a660ceb0
+Section: Python
+Description: Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.)
+Tag: role::developer
+Author: phil@secdev.org
+Name: Scapy
+Sponsor: iNinjas <repo@ininjas.com>
+
