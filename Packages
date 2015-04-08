@@ -8,7 +8,7 @@ Size: 283502
 MD5sum: 9c084377cdcce84f54e6f3fa73bbb817
 SHA1: 8556be2a6cdd27c8d98a7d03d97303424c512051
 SHA256: cad8b1ce0a0f60375501fb60258d0c340587dc6009cd56db585d64a0faedf6cf
-Section: Hacktools
+Section: Utilities
 Description: ARP scanning and fingerprinting tool
  arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3).
 Tag: role::hacker
@@ -176,4 +176,3 @@ Section: Tweaks
 Description: Force switch between SMS and iMessage. Press and hold Send to switch. Vibrates once on success, vibrates twice if cannot switch to SMS. The most common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new one to your contact's phone number rather than email.
 Author: Teggers
 Name: MsgServiceSwitch
-
