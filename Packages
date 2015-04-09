@@ -213,20 +213,19 @@ Description: GUI for arp-scan and arp-spoof.
 Author: Teggers
 Name: netKillUIbeta
 
-Package: scapy
-Version: 2.1.0
+Package: eu.teggers.netKillUI
+Version: 0.1.0-7
 Architecture: iphoneos-arm
-Maintainer: A12danrulz
-Depends: python, libpcap, libdnet, pylibdnet, pylibpcap, pycrypto
-Filename: .//deb_files/scapy.deb
-Size: 217208
-MD5sum: 331b128dcecd678c93f155ce444a374f
-SHA1: 9901b299b3c08cd1ba57a25d8711f3fa72ab948d
-SHA256: b94db74a632438d4a0cdb12664768b0858154c5355aedf93d08e1718a660ceb0
-Section: Python
-Description: Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.)
-Tag: role::developer
-Author: phil@secdev.org
-Name: Scapy
-Sponsor: iNinjas <repo@ininjas.com>
+Maintainer: Teggers
+Installed-Size: 256
+Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
+Filename: .//deb_files/eu.teggers.netKillUI_0.1.0-7_iphoneos-arm.deb
+Size: 35146
+MD5sum: 26c73aa83044cd1971070ba31010ded3
+SHA1: 7bedcced07d3c66536e4e1ceca50a06ecb50bd51
+SHA256: 5e3336a584f70b507ca95d73192420223d3c2c5964ecc48c20cc19ffa8516890
+Section: Tweaks
+Description: GUI for arp-scan and arp-spoof.
+Author: Teggers
+Name: netKillUIbeta
 
