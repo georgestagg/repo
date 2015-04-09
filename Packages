@@ -197,6 +197,22 @@ Depiction: http://ininjas.com/forum/index.php?topic=283;theme=14
 Name: Dsniff Suite
 Sponsor: iNinjas <repo@ininjas.com>
 
+Package: eu.teggers.netKillUI
+Version: 0.1.0-5
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 256
+Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
+Filename: .//deb_files/eu.teggers.netKillUI_0.1.0-5_iphoneos-arm.deb
+Size: 35082
+MD5sum: 7c6b9484bc9d7f372d1f5e48224fa226
+SHA1: dd837cb9ba596de0c325018b1ead475cf2fe9579
+SHA256: 64ebd321d8a4778995005bf8c260e32cf1ed08699c9b65a98089c4a9895048c0
+Section: Tweaks
+Description: GUI for arp-scan and arp-spoof.
+Author: Teggers
+Name: netKillUIbeta
+
 Package: scapy
 Version: 2.1.0
 Architecture: iphoneos-arm
