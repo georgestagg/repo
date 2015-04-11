@@ -309,3 +309,19 @@ Description: GUI for arp-scan and arp-spoof.
 Author: Teggers
 Name: netKillUIbeta
 
+Package: eu.teggers.netKillUI
+Version: 0.1.2-6
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 668
+Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Filename: .//deb_files/eu.teggers.netKillUI_0.1.2-6_iphoneos-arm.deb
+Size: 234110
+MD5sum: 3cf3d903f3fd2168e7a359dd3358ff60
+SHA1: 0d10b96d3f413c090d6130fe4c3e9383b88a01ff
+SHA256: b087676ee6fe0bfaba266477f4eb76fa321bf04767589dd84592d20db1757315
+Section: Tweaks
+Description: GUI for arp-scan and arp-spoof.
+Author: Teggers
+Name: netKillUIbeta
+
