@@ -325,3 +325,35 @@ Description: GUI for arp-scan and arp-spoof.
 Author: Teggers
 Name: netKillUIbeta
 
+Package: eu.teggers.quietmctube
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .//deb_files/eu.teggers.quietmctube_0.0.1-1_iphoneos-arm.deb
+Size: 4172
+MD5sum: 4ad697103583daf5e031676c952e574d
+SHA1: d6ededd802f740dc3c35ec3ee1c7399cc68b6112
+SHA256: 2a609b9ea0f9309011f2c8845c2845adaa1666c0b646423f8c2011d748fdbac9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Teggers
+Name: QuietMcTube
+
+Package: eu.teggers.quietmctube
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .//deb_files/eu.teggers.quietmctube_0.0.1-2_iphoneos-arm.deb
+Size: 4166
+MD5sum: c67c12f712030684645007981910320c
+SHA1: 8276f168d24e994aac1eee65154d7326dc568b70
+SHA256: 5425842624ce09622168a1b32d3f333105870be9422646f41032671699fbb315
+Section: Tweaks
+Description: Shut the mctube popup up.
+Author: Teggers
+Name: QuietMcTube
+
