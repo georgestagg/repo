@@ -361,6 +361,29 @@ Description: GUI for arp-scan and arp-spoof.
 Author: Teggers
 Name: netKillUIbeta
 
+Package: eu.teggers.netKillUI
+Version: 0.1.7-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 684
+Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Filename: .//deb_files/eu.teggers.netKillUI_0.1.7-1_iphoneos-arm.deb
+Size: 253122
+MD5sum: 97bfdf03fc192dfe18e74b0b69169084
+SHA1: cbacb78b76d81e0ac44df5476cbe74803ffe8c33
+SHA256: 3f4d731881c6eca5c921c69bd5e89c7ffd6c76a2f38d03fd51de0a43d16ef494
+Section: Tweaks
+Description: GUI for arp-scan and arp-spoof.
+ Changelog:
+ 0.1.7:
+ Make indicator icons smaller.
+ 0.1.6:
+ Indicator to show which IPs are being blocked.
+ Tap an IP currently being blocked to unblock it.
+ Kill all button added.
+Author: Teggers
+Name: netKillUIbeta
+
 Package: eu.teggers.quietmctube
 Version: 0.0.1-1
 Architecture: iphoneos-arm
