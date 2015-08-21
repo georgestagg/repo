@@ -1,8 +1,0 @@
-Origin: Teggers Repo
-Label: Teggers Repo
-Suite: stable
-Version: 1.0
-Codename: TeggersRepo
-Architectures: iphoneos-arm
-Components: main
-Description: Tweaks that I gone and done.

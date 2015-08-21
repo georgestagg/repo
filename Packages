@@ -547,3 +547,36 @@ Description: Shut the mctube popup up.
 Author: Teggers
 Name: QuietMcTube
 
+Package: eu.teggers.waveflow
+Version: 0.1.0-161
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.4)
+Conflicts: cc.tweak.libobjcipc
+Filename: .//deb_files/eu.teggers.waveflow_0.1.0-161_iphoneos-arm.deb
+Size: 115584
+MD5sum: 3db8edf960b7d90dc46c2dad67b3990a
+SHA1: b3b423720b42b609f66b9fa9caed6283a8aea231
+SHA256: dfe86621af22ad1f278218a4e9fbe21f313b4bdd937b8a9a9b9ae11495d70150
+Section: Tweaks
+Description: Waveflow -  A cheeky little visualizer for the iOS 8.4 Music App
+Author: Teggers
+Name: WaveFlow
+
+Package: eu.teggers.waveflow
+Version: 0.1.0-46
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 504
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.4)
+Filename: .//deb_files/eu.teggers.waveflow_0.1.0-46_iphoneos-arm.deb
+Size: 151072
+MD5sum: 9876d51b39cd15cce83105350121ff27
+SHA1: 76023712e7335c30702b050d72e936a16c21e602
+SHA256: 7204a92c80758f6075ceda396ce60a77ddaa513f1698b28f2e7c1a220d7b1552
+Section: Tweaks
+Description: Waveflow -  A cheeky little visualizer for the iOS 8.4 Music App
+Author: Teggers
+Name: WaveFlow
+
