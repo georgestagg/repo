@@ -565,6 +565,23 @@ Author: Teggers
 Name: WaveFlow
 
 Package: eu.teggers.waveflow
+Version: 0.1.0-162
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.4)
+Conflicts: cc.tweak.libobjcipc
+Filename: .//deb_files/eu.teggers.waveflow_0.1.0-162_iphoneos-arm.deb
+Size: 115944
+MD5sum: 5dbf5459d33255a5a1201621aa3be541
+SHA1: 9cd0da8cd84436eb8690c8b2f5cea674e87ff2bf
+SHA256: 8eef63866523cd5cb1b7475a6d8156e13e756c42c5fe93a101f0efbbc702574a
+Section: Tweaks
+Description: Waveflow -  A cheeky little visualizer for the iOS 8.4 Music App
+Author: Teggers
+Name: WaveFlow
+
+Package: eu.teggers.waveflow
 Version: 0.1.0-46
 Architecture: iphoneos-arm
 Maintainer: Teggers
