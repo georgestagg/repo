@@ -221,6 +221,31 @@ Description: Force switch between SMS and iMessage.
 Author: Teggers
 Name: MsgServiceSwitch
 
+Package: com.teggers.msgserviceswitch
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.0-1_iphoneos-arm.deb
+Size: 16618
+MD5sum: 5c9190152284c3ec8eb3d15f2c7df402
+SHA1: 61d77711d5ce799f2e2dd3a5e437d472ffabf9b1
+SHA256: 5d0e1894efcf19677a199394c7a17cc49a12f4c8b90500835667d0ec05a484b1
+Section: Tweaks
+Description: Force switch between SMS and iMessage.
+ Press and hold Send to switch.
+ Vibrates once on success, vibrates twice if cannot switch to SMS.
+ A common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new thread to your contact's phone number rather than email address.
+ Changelog:
+ 1.2.0
+ iOS9 compatibility
+ 1.3.1
+ Added downgrade ping when switching to fix bug where one vibration happens but the switch does not.
+ Added a switch for defaulting to SMS/MMS or iMessage in Details tab.
+Author: Teggers
+Name: MsgServiceSwitch
+
 Package: dsniff
 Version: 2.4b2-1
 Architecture: iphoneos-arm
