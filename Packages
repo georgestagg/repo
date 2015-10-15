@@ -129,6 +129,22 @@ Description: Show number of messages next to contact names in MobileSMS.
 Author: Teggers
 Name: MessageCount
 
+Package: com.teggers.messagecount
+Version: 1.1.1-3
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: .//deb_files/com.teggers.messagecount_1.1.1-3_iphoneos-arm.deb
+Size: 11780
+MD5sum: cd3836396bc6f755b57d7a15a0870292
+SHA1: cf45618e207bc36aa34c4ccc2260af3ff0f375b9
+SHA256: 26592cb9461d09ac04e9c953e7190148ddc5497e022886961e7b1a2ad940b9a6
+Section: Tweaks
+Description: Show number of messages next to contact names in MobileSMS.
+Author: Teggers
+Name: MessageCount
+
 Package: com.teggers.msgloadall
 Version: 0.0.1-3
 Architecture: iphoneos-arm
@@ -289,6 +305,31 @@ Size: 16952
 MD5sum: 15daaad4135ebe0353ede739ccc8c184
 SHA1: a5e39c8e7bbc05576cb4ecdd0957dbc73e2d1985
 SHA256: 2b4f2560473c35f6e6fdafaa032720cecb0bae6d63e1647946e5fe144e5ec33f
+Section: Tweaks
+Description: Force switch between SMS and iMessage.
+ Press and hold Send to switch.
+ Vibrates once on success, vibrates twice if cannot switch to SMS.
+ A common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new thread to your contact's phone number rather than email address.
+ Changelog:
+ 1.2.0
+ iOS9 compatibility
+ 1.3.1
+ Added downgrade ping when switching to fix bug where one vibration happens but the switch does not.
+ Added a switch for defaulting to SMS/MMS or iMessage in Details tab.
+Author: Teggers
+Name: MsgServiceSwitch
+
+Package: com.teggers.msgserviceswitch
+Version: 1.2.1-2
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.1-2_iphoneos-arm.deb
+Size: 16960
+MD5sum: 4b7e2dca375f715d360af8f497afc2ce
+SHA1: be3099a8e3f9949b3e02441dc383893be50b871f
+SHA256: 61c020c89dd7d76f9b247b393daa3515da501f7446641f247549381b060ac65d
 Section: Tweaks
 Description: Force switch between SMS and iMessage.
  Press and hold Send to switch.
@@ -608,6 +649,39 @@ Size: 261284
 MD5sum: e57b07bd11c33f9ccb43f605864165d4
 SHA1: 9c5bfd7c7c32eeecba7c37ebdcbf783560c6ea13
 SHA256: c42db801cfbde02a75970d709830be9eb90337eae8361497c1c3aec594dbcadc
+Section: Tweaks
+Description: GUI for arp-scan and arp-spoof.
+ Changelog:
+ 0.2.0:
+ iOS 9 support.
+ 0.1.9-3:
+ iOS 8.3 fix (prerequisite added).
+ 0.1.9:
+ iOS 8.3 fix.
+ 0.1.8:
+ Redo table cells - add multilines
+ Hold cell to rename device
+ Show device vendor if known (database not great atm)
+ 0.1.7:
+ Make indicator icons smaller.
+ 0.1.6:
+ Indicator to show which IPs are being blocked.
+ Tap an IP currently being blocked to unblock it.
+ Kill all button added.
+Author: Teggers
+Name: netKillUIbeta
+
+Package: eu.teggers.netKillUI
+Version: 0.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 684
+Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Filename: .//deb_files/eu.teggers.netKillUI_0.2.1-1_iphoneos-arm.deb
+Size: 261272
+MD5sum: b311ce42b739b6d18be8b8db74768159
+SHA1: 4f5a8ef0b01298614ad60958c7306623d62ed3bc
+SHA256: 08a64289ca947faf35f4067318be1853b85d6a7c9f5858b687750601aa03b549
 Section: Tweaks
 Description: GUI for arp-scan and arp-spoof.
  Changelog:
