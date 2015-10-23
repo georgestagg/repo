@@ -736,53 +736,19 @@ Description: Shut the mctube popup up.
 Author: Teggers
 Name: QuietMcTube
 
-Package: eu.teggers.waveflow
-Version: 0.1.0-161
+Package: eu.teggers.sbunlimitedassertions
+Version: 0.0.1-4
 Architecture: iphoneos-arm
 Maintainer: Teggers
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.4)
-Conflicts: cc.tweak.libobjcipc
-Filename: .//deb_files/eu.teggers.waveflow_0.1.0-161_iphoneos-arm.deb
-Size: 115584
-MD5sum: 3db8edf960b7d90dc46c2dad67b3990a
-SHA1: b3b423720b42b609f66b9fa9caed6283a8aea231
-SHA256: dfe86621af22ad1f278218a4e9fbe21f313b4bdd937b8a9a9b9ae11495d70150
+Installed-Size: 0
+Depends: mobilesubstrate, ldid, shell-cmds, sed, grep, openssh
+Filename: .//deb_files/eu.teggers.sbunlimitedassertions_0.0.1-4_iphoneos-arm.deb
+Size: 1062
+MD5sum: 72d6e9124a794bb7ed8d212efca3c9bb
+SHA1: a6cca26eb0b540d7f271ad8b2db893001bd133fb
+SHA256: 2b522c6194d8504d9a8c605dcfba19d2d4501e7a408a4da802018d1e9653862a
 Section: Tweaks
-Description: Waveflow -  A cheeky little visualizer for the iOS 8.4 Music App
+Description: Springboard unlimited assertions.
 Author: Teggers
-Name: WaveFlow
-
-Package: eu.teggers.waveflow
-Version: 0.1.0-162
-Architecture: iphoneos-arm
-Maintainer: Teggers
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.4)
-Conflicts: cc.tweak.libobjcipc
-Filename: .//deb_files/eu.teggers.waveflow_0.1.0-162_iphoneos-arm.deb
-Size: 115944
-MD5sum: 5dbf5459d33255a5a1201621aa3be541
-SHA1: 9cd0da8cd84436eb8690c8b2f5cea674e87ff2bf
-SHA256: 8eef63866523cd5cb1b7475a6d8156e13e756c42c5fe93a101f0efbbc702574a
-Section: Tweaks
-Description: Waveflow -  A cheeky little visualizer for the iOS 8.4 Music App
-Author: Teggers
-Name: WaveFlow
-
-Package: eu.teggers.waveflow
-Version: 0.1.0-46
-Architecture: iphoneos-arm
-Maintainer: Teggers
-Installed-Size: 504
-Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.4)
-Filename: .//deb_files/eu.teggers.waveflow_0.1.0-46_iphoneos-arm.deb
-Size: 151072
-MD5sum: 9876d51b39cd15cce83105350121ff27
-SHA1: 76023712e7335c30702b050d72e936a16c21e602
-SHA256: 7204a92c80758f6075ceda396ce60a77ddaa513f1698b28f2e7c1a220d7b1552
-Section: Tweaks
-Description: Waveflow -  A cheeky little visualizer for the iOS 8.4 Music App
-Author: Teggers
-Name: WaveFlow
+Name: Springboard Unlimited Assertions
 
