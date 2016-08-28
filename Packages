@@ -3,7 +3,7 @@ Version: 1.8.1-1
 Architecture: iphoneos-arm
 Maintainer: Trcx <trcx528@gmail.com>
 Depends: libpcap
-Filename: .//deb_files/arp-scan.deb
+Filename: ./deb_files/arp-scan.deb
 Size: 283502
 MD5sum: 9c084377cdcce84f54e6f3fa73bbb817
 SHA1: 8556be2a6cdd27c8d98a7d03d97303424c512051
@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.0.1-11_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.0.1-11_iphoneos-arm.deb
 Size: 7260
 MD5sum: 30a7d6667ec519adad11389ad88dbc61
 SHA1: 36fb43fb19565097adc4bfae33326824122a664b
@@ -39,7 +39,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.0.1-12_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.0.1-12_iphoneos-arm.deb
 Size: 7310
 MD5sum: 72d999361d496201427fce45889381f1
 SHA1: 9f37cead6e204a82935669d8f261ef7c7d39a2c4
@@ -55,7 +55,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.0.1-14_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.0.1-14_iphoneos-arm.deb
 Size: 7318
 MD5sum: 532ff02e05d2150398290b9eaef1316e
 SHA1: 2e49692eb7cb346259943b1a86beb7ca3d109185
@@ -71,7 +71,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.0.1-21_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.0.1-21_iphoneos-arm.deb
 Size: 7182
 MD5sum: 34aa260517918c6c03e5fe8bb41409a1
 SHA1: 8d05a8435275fe8ef648351c45d2009c66f3bbef
@@ -87,7 +87,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.0.1-9_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.0.1-9_iphoneos-arm.deb
 Size: 7388
 MD5sum: 484093190627bf9bdafa363a9ddac03d
 SHA1: 4e5add7b071494c8cd70b99c9b83dde5437c08d0
@@ -103,7 +103,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.1.0-1_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.1.0-1_iphoneos-arm.deb
 Size: 6898
 MD5sum: ed2441c126b7e9df715040eb4e28c656
 SHA1: 1a0a75fe5e05b6785c36de2baaca1592d5305167
@@ -119,7 +119,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.1.0-2_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.1.0-2_iphoneos-arm.deb
 Size: 11776
 MD5sum: 6921e0f4fe40ef84312cfd0eae12cc40
 SHA1: 1476236c7ae31f9e973a659581d9962f6ef08199
@@ -135,7 +135,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.messagecount_1.1.1-3_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.messagecount_1.1.1-3_iphoneos-arm.deb
 Size: 11780
 MD5sum: cd3836396bc6f755b57d7a15a0870292
 SHA1: cf45618e207bc36aa34c4ccc2260af3ff0f375b9
@@ -151,7 +151,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgloadall_0.0.1-3_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgloadall_0.0.1-3_iphoneos-arm.deb
 Size: 4668
 MD5sum: 0dbc34239acfde93ab9a3821abe9eece
 SHA1: fd791376f495188a3957e5870ee1458dc622ec47
@@ -167,7 +167,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch.deb
 Size: 6584
 MD5sum: edd9d5fa4b6987c31aba118b34b2e823
 SHA1: e0df1ba3b3d5a415b5c9685db64ee747df92804a
@@ -183,7 +183,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.0.2-2_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.0.2-2_iphoneos-arm.deb
 Size: 6040
 MD5sum: f19c31d330e96b35f9a97fa89acddf54
 SHA1: 3987d6eb777361670aeb632f5071824484177345
@@ -199,7 +199,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.0.3-1_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.0.3-1_iphoneos-arm.deb
 Size: 6062
 MD5sum: f1fd5304e3a8736bdd706e9f5dcbce54
 SHA1: 6f6088ac32f15772eba2a15fa8b08a06bdfc598d
@@ -215,7 +215,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.0.4-1_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.0.4-1_iphoneos-arm.deb
 Size: 6724
 MD5sum: 6d620d73bc5e0a45268e564737cf3413
 SHA1: 9522c98f9d76d1e13d4b3fa54325b669ea8a8015
@@ -231,7 +231,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.1.1-1_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.1.1-1_iphoneos-arm.deb
 Size: 16276
 MD5sum: 6696dd182c309b9f9f65de8addc86405
 SHA1: 7a753e0fb27e9ae262a95c6d468a75457cddb39c
@@ -253,7 +253,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.1.3-2_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.1.3-2_iphoneos-arm.deb
 Size: 16546
 MD5sum: 18ada7819671162733134136c7499b73
 SHA1: 179a074a72162d9de6bf86cb245c376d767582e1
@@ -275,7 +275,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.0-1_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.2.0-1_iphoneos-arm.deb
 Size: 16618
 MD5sum: 5c9190152284c3ec8eb3d15f2c7df402
 SHA1: 61d77711d5ce799f2e2dd3a5e437d472ffabf9b1
@@ -300,7 +300,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.0-2_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.2.0-2_iphoneos-arm.deb
 Size: 16952
 MD5sum: 15daaad4135ebe0353ede739ccc8c184
 SHA1: a5e39c8e7bbc05576cb4ecdd0957dbc73e2d1985
@@ -325,7 +325,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.1-2_iphoneos-arm.deb
+Filename: ./deb_files/com.teggers.msgserviceswitch_1.2.1-2_iphoneos-arm.deb
 Size: 16960
 MD5sum: 4b7e2dca375f715d360af8f497afc2ce
 SHA1: be3099a8e3f9949b3e02441dc383893be50b871f
@@ -350,7 +350,7 @@ Architecture: iphoneos-arm
 Maintainer: Trcx <trcx528@gmail.com>
 Conflicts: org.mulliner.dsniff
 Replaces: org.mulliner.dsniff
-Filename: .//deb_files/dsniff.deb
+Filename: ./deb_files/dsniff.deb
 Size: 2110904
 MD5sum: 9b7c8d02c2bc3fd25317e447b95e7df8
 SHA1: 76391b226237a5f7493c1cf9d3312d6b011fee53
@@ -370,7 +370,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 252
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.0-32_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.0-32_iphoneos-arm.deb
 Size: 35020
 MD5sum: 3c04ddf09711df5a72a1cf57d7d78e8c
 SHA1: 12f3f7867479f6a1db3a05605040c675e8d4f292
@@ -386,7 +386,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 256
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.0-5_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.0-5_iphoneos-arm.deb
 Size: 35082
 MD5sum: 7c6b9484bc9d7f372d1f5e48224fa226
 SHA1: dd837cb9ba596de0c325018b1ead475cf2fe9579
@@ -402,7 +402,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 256
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.0-7_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.0-7_iphoneos-arm.deb
 Size: 35146
 MD5sum: 26c73aa83044cd1971070ba31010ded3
 SHA1: 7bedcced07d3c66536e4e1ceca50a06ecb50bd51
@@ -418,7 +418,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 256
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.0-9_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.0-9_iphoneos-arm.deb
 Size: 35978
 MD5sum: 546068164d1db81cd949801277e268fa
 SHA1: 4197d002ddfe6a705b34469081205ca754f9cf94
@@ -434,7 +434,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 668
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.1-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.1-1_iphoneos-arm.deb
 Size: 233454
 MD5sum: 9548f0ec0f5593ae6f8735ecddb5bc37
 SHA1: a2ddf76f9c4934d2e8b59967d932f7e5ac86b15a
@@ -450,7 +450,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 668
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.1-2_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.1-2_iphoneos-arm.deb
 Size: 233474
 MD5sum: 0f5afa378dc69ef04aa72c127ebaf1e6
 SHA1: 17de532849bdaec20b37d913ca1d41c04e11786f
@@ -466,7 +466,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 668
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.2-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.2-1_iphoneos-arm.deb
 Size: 233486
 MD5sum: 84bd90bbcd9b01f3405c67f805de1039
 SHA1: b6f24db3d8352c34d3f2ecf6a35779b42eee60e3
@@ -482,7 +482,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 668
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.2-6_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.2-6_iphoneos-arm.deb
 Size: 234110
 MD5sum: 3cf3d903f3fd2168e7a359dd3358ff60
 SHA1: 0d10b96d3f413c090d6130fe4c3e9383b88a01ff
@@ -498,7 +498,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.6-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.6-1_iphoneos-arm.deb
 Size: 252706
 MD5sum: e2d09cf0bf2b668ea33ab519d9db38cc
 SHA1: 099219edf44ea4b43424d07dfe9901c415c3e961
@@ -514,7 +514,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.6-8_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.6-8_iphoneos-arm.deb
 Size: 252786
 MD5sum: 086af5852ddfabd150d0551b9c878554
 SHA1: 5b269304b17b8fa1f1bcc02c64673af4aed93ec7
@@ -534,7 +534,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.7-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.7-1_iphoneos-arm.deb
 Size: 253122
 MD5sum: 97bfdf03fc192dfe18e74b0b69169084
 SHA1: cbacb78b76d81e0ac44df5476cbe74803ffe8c33
@@ -557,7 +557,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.8-5_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.8-5_iphoneos-arm.deb
 Size: 261338
 MD5sum: 3328178c80bc65bdbaa421e8e109c995
 SHA1: 1d5b2202ee10c7a013e14edaad30bebb0a95a2eb
@@ -584,7 +584,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.9-2_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.9-2_iphoneos-arm.deb
 Size: 261352
 MD5sum: 8734cdfed5f4d4af6ce8cce294356a1e
 SHA1: e4c6e0d868ec7167b8a8902710c2b29f6cd41a61
@@ -613,7 +613,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.1.9-3_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.1.9-3_iphoneos-arm.deb
 Size: 261394
 MD5sum: f06db10304c0c1b77cca16b84dccfb46
 SHA1: e68c86fcd9636e6f10d4690bcbb02457dced3632
@@ -644,7 +644,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.2.0-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.2.0-1_iphoneos-arm.deb
 Size: 261284
 MD5sum: e57b07bd11c33f9ccb43f605864165d4
 SHA1: 9c5bfd7c7c32eeecba7c37ebdcbf783560c6ea13
@@ -677,7 +677,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 684
 Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
-Filename: .//deb_files/eu.teggers.netKillUI_0.2.1-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.netKillUI_0.2.1-1_iphoneos-arm.deb
 Size: 261272
 MD5sum: b311ce42b739b6d18be8b8db74768159
 SHA1: 4f5a8ef0b01298614ad60958c7306623d62ed3bc
@@ -710,7 +710,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//deb_files/eu.teggers.quietmctube_0.0.1-1_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.quietmctube_0.0.1-1_iphoneos-arm.deb
 Size: 4172
 MD5sum: 4ad697103583daf5e031676c952e574d
 SHA1: d6ededd802f740dc3c35ec3ee1c7399cc68b6112
@@ -726,7 +726,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .//deb_files/eu.teggers.quietmctube_0.0.1-2_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.quietmctube_0.0.1-2_iphoneos-arm.deb
 Size: 4166
 MD5sum: c67c12f712030684645007981910320c
 SHA1: 8276f168d24e994aac1eee65154d7326dc568b70
@@ -742,7 +742,7 @@ Architecture: iphoneos-arm
 Maintainer: Teggers
 Installed-Size: 0
 Depends: mobilesubstrate, ldid, shell-cmds, sed, grep, openssh
-Filename: .//deb_files/eu.teggers.sbunlimitedassertions_0.0.1-4_iphoneos-arm.deb
+Filename: ./deb_files/eu.teggers.sbunlimitedassertions_0.0.1-4_iphoneos-arm.deb
 Size: 1062
 MD5sum: 72d6e9124a794bb7ed8d212efca3c9bb
 SHA1: a6cca26eb0b540d7f271ad8b2db893001bd133fb
@@ -751,4 +751,61 @@ Section: Tweaks
 Description: Springboard unlimited assertions.
 Author: Teggers
 Name: Springboard Unlimited Assertions
+
+Package: eu.teggers.waveflow.beta
+Version: 0.4.10-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.4.10-1_iphoneos-arm.deb
+Size: 195822
+MD5sum: 08674eb39db452f43c10655e733ad109
+SHA1: f80331875e082a3ef607ce1c679c68a16d98e389
+SHA256: 61b193e6557c1eb6ecadb1b1f200ba4ef18194922f6c8576197da87dba6fd25a
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow
+
+Package: eu.teggers.waveflow.beta
+Version: 0.5.1-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-1_iphoneos-arm.deb
+Size: 195866
+MD5sum: c65166140aa784fe64d990fbf0461428
+SHA1: f0afabc9eabd9a7bf9f1269f7786a673683c4ef4
+SHA256: 272423708e88258663489897a661f9b570ba47cd96b416df904f4d008374c548
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow
+
+Package: eu.teggers.waveflow.beta
+Version: 0.5.1-2
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-2_iphoneos-arm.deb
+Size: 195878
+MD5sum: 17410bc1e5c45e54af54399e7e6ffebc
+SHA1: cc67d0c2a376820314954212ab5856d8c370c186
+SHA256: 2aac363035623d412b708ba72e59f9aca1dfe8f526d5dcbb02fcab9980f7870e
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow
 
