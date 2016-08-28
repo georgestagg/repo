@@ -1,0 +1,7 @@
+Origin: Tegger's Repo
+Label: Teggers's Repo
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: Tegger's Repo
