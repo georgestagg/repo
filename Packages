@@ -1304,6 +1304,101 @@ Author: Teggers
 Name: WaveFlow Beta
 
 Package: eu.teggers.waveflow.beta
+Version: 0.5.1-39
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-39_iphoneos-arm.deb
+Size: 194578
+MD5sum: f9ce1dc1f49588d7f9dd1c136d7a9fa5
+SHA1: 0f95ec2e9c380d96071455dbc643c036912279c8
+SHA256: b0e9e815dcd9de03b8c86975acb751fa49eb05afb4dc68d00015cc5bc868e607
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow Beta
+
+Package: eu.teggers.waveflow.beta
+Version: 0.5.1-40
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-40_iphoneos-arm.deb
+Size: 194464
+MD5sum: a0b18e26d58116f62e0285cb76c4c48d
+SHA1: d0059f800dc29081c8a86aade64c3c4a9997f8a2
+SHA256: 349e19dab8db4cddc118afecde632b50301cc08a5d48bc2d8655de53ac5b34c5
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow Beta
+
+Package: eu.teggers.waveflow.beta
+Version: 0.5.1-41
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-41_iphoneos-arm.deb
+Size: 194458
+MD5sum: 8c6801af941ecdff7c1cacb0690bd7ec
+SHA1: 9c672c2cab2140b0e9917461794bc07d56bc9c4d
+SHA256: 3db218e353cfb9a31a4800e2d0e6cf55726c9f8765b992ec0fc80b50e09ac294
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow Beta
+
+Package: eu.teggers.waveflow.beta
+Version: 0.5.1-42
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-42_iphoneos-arm.deb
+Size: 194232
+MD5sum: bdaea55e9bd44b2eb61b7d238944f586
+SHA1: beb67be0a864d1ad93ec2d8d9d0da4c12e480936
+SHA256: e59e7ce4ee4bc801a1caafba1ffe7193979da4745028d59c8784f8eefabf8bd4
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow Beta
+
+Package: eu.teggers.waveflow.beta
+Version: 0.5.1-43
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 8.4)
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow.beta_0.5.1-43_iphoneos-arm.deb
+Size: 194520
+MD5sum: b86a880dfa73a60f62960123c6da8c47
+SHA1: 1324115d16c64a420935756031ab08575b02f9ed
+SHA256: 077874e65d804e4423c9309f943e7b00a3b9fa0d78d7a1f87ede86b184a73585
+Section: Tweaks
+Description: Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Waveflow -  A little visualizer for the iOS 8.4+ Music App
+ Note: This package is bundled with mootjeuh's fork of libobjcipc [(c) a1anyio] to ensure 8.4 compatibility.
+Author: Teggers
+Name: WaveFlow Beta
+
+Package: eu.teggers.waveflow.beta
 Version: 0.5.1-5
 Architecture: iphoneos-arm
 Maintainer: Teggers
