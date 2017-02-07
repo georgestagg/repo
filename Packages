@@ -1,0 +1,232 @@
+Package: arp-scan
+Version: 1.8.1-1
+Section: Hacktools
+Maintainer: Trcx <trcx528@gmail.com>
+Depends: libpcap
+Architecture: iphoneos-arm
+Filename: .//deb_files/arp-scan.deb
+Size: 283502
+MD5sum: 9c084377cdcce84f54e6f3fa73bbb817
+Description: ARP scanning and fingerprinting tool
+ arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3).
+Name: Arp Scan
+Author: Roy Hills <Roy.Hills@nta-monitor.com>
+Depiction: http://ininjas.com/forum/index.php?topic=2099.0;theme=14
+
+Package: com.teggers.messagecount
+Version: 1.1.1-3
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/com.teggers.messagecount_1.1.1-3_iphoneos-arm.deb
+Size: 11780
+Installed-Size: 200
+MD5sum: cd3836396bc6f755b57d7a15a0870292
+Description: Show number of messages next to contact names in MobileSMS.
+Name: MessageCount
+Author: Teggers
+
+Package: com.teggers.msgloadall
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/com.teggers.msgloadall_0.0.1-3_iphoneos-arm.deb
+Size: 4668
+Installed-Size: 72
+MD5sum: 0dbc34239acfde93ab9a3821abe9eece
+Description: Load all the messages in a conversation. Option appears under details.
+Name: MsgLoadAll
+Author: Teggers
+
+Package: com.teggers.msgserviceswitch
+Version: 1.0.1-7
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/com.teggers.msgserviceswitch.deb
+Size: 6584
+Installed-Size: 136
+MD5sum: edd9d5fa4b6987c31aba118b34b2e823
+Description: Force switch between SMS and iMessage. Press and hold Send to switch.
+Name: MsgServiceSwitch
+Author: Teggers
+
+Package: com.teggers.msgserviceswitch
+Version: 1.2.0-1
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.0-1_iphoneos-arm.deb
+Size: 16618
+Installed-Size: 200
+MD5sum: 5c9190152284c3ec8eb3d15f2c7df402
+Description: Force switch between SMS and iMessage.
+ Press and hold Send to switch.
+ Vibrates once on success, vibrates twice if cannot switch to SMS.
+ A common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new thread to your contact's phone number rather than email address.
+ Changelog:
+ 1.2.0
+ iOS9 compatibility
+ 1.3.1
+ Added downgrade ping when switching to fix bug where one vibration happens but the switch does not.
+ Added a switch for defaulting to SMS/MMS or iMessage in Details tab.
+Name: MsgServiceSwitch
+Author: Teggers
+
+Package: com.teggers.msgserviceswitch
+Version: 1.2.0-2
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.0-2_iphoneos-arm.deb
+Size: 16952
+Installed-Size: 200
+MD5sum: 15daaad4135ebe0353ede739ccc8c184
+Description: Force switch between SMS and iMessage.
+ Press and hold Send to switch.
+ Vibrates once on success, vibrates twice if cannot switch to SMS.
+ A common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new thread to your contact's phone number rather than email address.
+ Changelog:
+ 1.2.0
+ iOS9 compatibility
+ 1.3.1
+ Added downgrade ping when switching to fix bug where one vibration happens but the switch does not.
+ Added a switch for defaulting to SMS/MMS or iMessage in Details tab.
+Name: MsgServiceSwitch
+Author: Teggers
+
+Package: com.teggers.msgserviceswitch
+Version: 1.2.1-2
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/com.teggers.msgserviceswitch_1.2.1-2_iphoneos-arm.deb
+Size: 16960
+Installed-Size: 200
+MD5sum: 4b7e2dca375f715d360af8f497afc2ce
+Description: Force switch between SMS and iMessage.
+ Press and hold Send to switch.
+ Vibrates once on success, vibrates twice if cannot switch to SMS.
+ A common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new thread to your contact's phone number rather than email address.
+ Changelog:
+ 1.2.0
+ iOS9 compatibility
+ 1.3.1
+ Added downgrade ping when switching to fix bug where one vibration happens but the switch does not.
+ Added a switch for defaulting to SMS/MMS or iMessage in Details tab.
+Name: MsgServiceSwitch
+Author: Teggers
+
+Package: dsniff
+Version: 2.4b2-1
+Section: Hacktools
+Maintainer: Trcx <trcx528@gmail.com>
+Conflicts: org.mulliner.dsniff
+Replaces: org.mulliner.dsniff
+Architecture: iphoneos-arm
+Filename: .//deb_files/dsniff.deb
+Size: 2110904
+MD5sum: 9b7c8d02c2bc3fd25317e447b95e7df8
+Description: Dsniff Suite Of Pentesting Tools For iPhone
+ dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+Name: Dsniff Suite
+Author: Dug Song <dugsong@monkey.org>
+Depiction: http://ininjas.com/forum/index.php?topic=283;theme=14
+
+Package: eu.teggers.netKillUI
+Version: 0.2.0-1
+Section: Tweaks
+Maintainer: Teggers
+Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Architecture: iphoneos-arm
+Filename: .//deb_files/eu.teggers.netKillUI_0.2.0-1_iphoneos-arm.deb
+Size: 261284
+Installed-Size: 684
+MD5sum: e57b07bd11c33f9ccb43f605864165d4
+Description: GUI for arp-scan and arp-spoof.
+ Changelog:
+ 0.2.0:
+ iOS 9 support.
+ 0.1.9-3:
+ iOS 8.3 fix (prerequisite added).
+ 0.1.9:
+ iOS 8.3 fix.
+ 0.1.8:
+ Redo table cells - add multilines
+ Hold cell to rename device
+ Show device vendor if known (database not great atm)
+ 0.1.7:
+ Make indicator icons smaller.
+ 0.1.6:
+ Indicator to show which IPs are being blocked.
+ Tap an IP currently being blocked to unblock it.
+ Kill all button added.
+Name: netKillUIbeta
+Author: Teggers
+
+Package: eu.teggers.netKillUI
+Version: 0.2.1-1
+Section: Tweaks
+Maintainer: Teggers
+Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Architecture: iphoneos-arm
+Filename: .//deb_files/eu.teggers.netKillUI_0.2.1-1_iphoneos-arm.deb
+Size: 261272
+Installed-Size: 684
+MD5sum: b311ce42b739b6d18be8b8db74768159
+Description: GUI for arp-scan and arp-spoof.
+ Changelog:
+ 0.2.0:
+ iOS 9 support.
+ 0.1.9-3:
+ iOS 8.3 fix (prerequisite added).
+ 0.1.9:
+ iOS 8.3 fix.
+ 0.1.8:
+ Redo table cells - add multilines
+ Hold cell to rename device
+ Show device vendor if known (database not great atm)
+ 0.1.7:
+ Make indicator icons smaller.
+ 0.1.6:
+ Indicator to show which IPs are being blocked.
+ Tap an IP currently being blocked to unblock it.
+ Kill all button added.
+Name: netKillUIbeta
+Author: Teggers
+
+Package: eu.teggers.quietmctube
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/eu.teggers.quietmctube_0.0.1-1_iphoneos-arm.deb
+Size: 4172
+Installed-Size: 136
+MD5sum: 4ad697103583daf5e031676c952e574d
+Description: An awesome MobileSubstrate tweak!
+Name: QuietMcTube
+Author: Teggers
+
+Package: eu.teggers.quietmctube
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Teggers
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//deb_files/eu.teggers.quietmctube_0.0.1-2_iphoneos-arm.deb
+Size: 4166
+Installed-Size: 136
+MD5sum: c67c12f712030684645007981910320c
+Description: Shut the mctube popup up.
+Name: QuietMcTube
+Author: Teggers
+
