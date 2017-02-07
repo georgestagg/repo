@@ -1,7 +1,7 @@
-Origin: Teggers' Repo
-Label: Teggers' Repo
+Origin: Teggers Repo
+Label: Teggers Repo
 Suite: stable
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Components: main
-Description: Teggers' Repo
+Description: Teggers Repo
