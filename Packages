@@ -1,0 +1,168 @@
+Package: arp-scan
+Version: 1.8.1-1
+Architecture: iphoneos-arm
+Maintainer: Trcx <trcx528@gmail.com>
+Depends: libpcap
+Filename: deb_files/arp-scan.deb
+Size: 283502
+MD5sum: 9c084377cdcce84f54e6f3fa73bbb817
+SHA1: 8556be2a6cdd27c8d98a7d03d97303424c512051
+SHA256: cad8b1ce0a0f60375501fb60258d0c340587dc6009cd56db585d64a0faedf6cf
+Section: Hacktools
+Description: ARP scanning and fingerprinting tool
+ arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3).
+Tag: role::hacker
+Author: Roy Hills <Roy.Hills@nta-monitor.com>
+Depiction: http://ininjas.com/forum/index.php?topic=2099.0;theme=14
+Name: Arp Scan
+Sponsor: iNinjas <repo@ininjas.com>
+
+Package: com.teggers.messagecount
+Version: 1.1.1-3
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: deb_files/com.teggers.messagecount_1.1.1-3_iphoneos-arm.deb
+Size: 11780
+MD5sum: cd3836396bc6f755b57d7a15a0870292
+SHA1: cf45618e207bc36aa34c4ccc2260af3ff0f375b9
+SHA256: 26592cb9461d09ac04e9c953e7190148ddc5497e022886961e7b1a2ad940b9a6
+Section: Tweaks
+Description: Show number of messages next to contact names in MobileSMS.
+Author: Teggers
+Name: MessageCount
+
+Package: com.teggers.msgloadall
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: deb_files/com.teggers.msgloadall_0.0.1-3_iphoneos-arm.deb
+Size: 4668
+MD5sum: 0dbc34239acfde93ab9a3821abe9eece
+SHA1: fd791376f495188a3957e5870ee1458dc622ec47
+SHA256: 0ffd3c61d1a3d249075e27b81b2ae9102cef8715fe944fc26520281774ab1803
+Section: Tweaks
+Description: Load all the messages in a conversation. Option appears under details.
+Author: Teggers
+Name: MsgLoadAll
+
+Package: com.teggers.msgserviceswitch
+Version: 1.2.1-2
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: deb_files/com.teggers.msgserviceswitch_1.2.1-2_iphoneos-arm.deb
+Size: 16960
+MD5sum: 4b7e2dca375f715d360af8f497afc2ce
+SHA1: be3099a8e3f9949b3e02441dc383893be50b871f
+SHA256: 61c020c89dd7d76f9b247b393daa3515da501f7446641f247549381b060ac65d
+Section: Tweaks
+Description: Force switch between SMS and iMessage.
+ Press and hold Send to switch.
+ Vibrates once on success, vibrates twice if cannot switch to SMS.
+ A common error is attempting to switch to SMS when sending an iMessage to an email address. If this happens to you: simply delete the message thread and create a new thread to your contact's phone number rather than email address.
+ Changelog:
+ 1.2.0
+ iOS9 compatibility
+ 1.3.1
+ Added downgrade ping when switching to fix bug where one vibration happens but the switch does not.
+ Added a switch for defaulting to SMS/MMS or iMessage in Details tab.
+Author: Teggers
+Name: MsgServiceSwitch
+
+Package: dsniff
+Version: 2.4b2-1
+Architecture: iphoneos-arm
+Maintainer: Trcx <trcx528@gmail.com>
+Conflicts: org.mulliner.dsniff
+Replaces: org.mulliner.dsniff
+Filename: deb_files/dsniff.deb
+Size: 2110904
+MD5sum: 9b7c8d02c2bc3fd25317e447b95e7df8
+SHA1: 76391b226237a5f7493c1cf9d3312d6b011fee53
+SHA256: 06fdbc3984b1f92dbbdec1d0c3e81721a6758684aafdfb058d417479b1651d15
+Section: Hacktools
+Description: Dsniff Suite Of Pentesting Tools For iPhone
+ dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+Tag: role:: hacker
+Author: Dug Song <dugsong@monkey.org>
+Depiction: http://ininjas.com/forum/index.php?topic=283;theme=14
+Name: Dsniff Suite
+Sponsor: iNinjas <repo@ininjas.com>
+
+Package: eu.teggers.netKillUI
+Version: 0.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 684
+Depends: arp-scan, dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Filename: deb_files/eu.teggers.netKillUI_0.2.1-1_iphoneos-arm.deb
+Size: 261272
+MD5sum: b311ce42b739b6d18be8b8db74768159
+SHA1: 4f5a8ef0b01298614ad60958c7306623d62ed3bc
+SHA256: 08a64289ca947faf35f4067318be1853b85d6a7c9f5858b687750601aa03b549
+Section: Tweaks
+Description: GUI for arp-scan and arp-spoof.
+ Changelog:
+ 0.2.0:
+ iOS 9 support.
+ 0.1.9-3:
+ iOS 8.3 fix (prerequisite added).
+ 0.1.9:
+ iOS 8.3 fix.
+ 0.1.8:
+ Redo table cells - add multilines
+ Hold cell to rename device
+ Show device vendor if known (database not great atm)
+ 0.1.7:
+ Make indicator icons smaller.
+ 0.1.6:
+ Indicator to show which IPs are being blocked.
+ Tap an IP currently being blocked to unblock it.
+ Kill all button added.
+Author: Teggers
+Name: netKillUIbeta
+
+Package: eu.teggers.quietmctube
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Teggers
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: deb_files/eu.teggers.quietmctube_0.0.1-2_iphoneos-arm.deb
+Size: 4166
+MD5sum: c67c12f712030684645007981910320c
+SHA1: 8276f168d24e994aac1eee65154d7326dc568b70
+SHA256: 5425842624ce09622168a1b32d3f333105870be9422646f41032671699fbb315
+Section: Tweaks
+Description: Shut the mctube popup up.
+Author: Teggers
+Name: QuietMcTube
+
+Package: eu.teggers.waveflow2
+Version: 0.0.3-2+debug
+Architecture: iphoneos-arm
+Maintainer: George Stagg
+Installed-Size: 784
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
+Filename: deb_files/eu.teggers.waveflow2_0.0.3-2+debug_iphoneos-arm.deb
+Size: 130340
+MD5sum: dc85682742082f4d72d787930dae79ff
+SHA1: c099b428c3ae13a5c1fbc20f79f5a5bdc86ce3e8
+SHA256: 2202463c725b4cad6672a70de55f8d0de45fff702b82db7fe651b61e6292006d
+Section: Tweaks
+Description: BETA version of WaveFlow Music Visualiser
+ Waveflow is a music visualisation tweak for lockscreen, music app and spotify
+ This tweak is unfortunately worked on slowly, whenever I can get time.
+ Currently confirmed to work on my devices: iPhone 6, 10.2, iPad Air 2, 9.0.2.
+ Reports of compatability with other devices are appriciated, email teggers@teggers.eu
+ v0.0.3: Add back in some of the old iOS9 hooks.
+ v0.0.2: Add Spotify hooks.
+ v0.0.1: Basic system working
+Author: George Stagg
+Name: BETA: WaveFlow2
+
