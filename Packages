@@ -144,16 +144,16 @@ Author: Teggers
 Name: QuietMcTube
 
 Package: eu.teggers.waveflow2
-Version: 0.0.3-2+debug
+Version: 0.0.3-8+debug
 Architecture: iphoneos-arm
 Maintainer: George Stagg
 Installed-Size: 784
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
-Filename: deb_files/eu.teggers.waveflow2_0.0.3-2+debug_iphoneos-arm.deb
-Size: 130340
-MD5sum: dc85682742082f4d72d787930dae79ff
-SHA1: c099b428c3ae13a5c1fbc20f79f5a5bdc86ce3e8
-SHA256: 2202463c725b4cad6672a70de55f8d0de45fff702b82db7fe651b61e6292006d
+Filename: deb_files/eu.teggers.waveflow2_0.0.3-8+debug_iphoneos-arm.deb
+Size: 131164
+MD5sum: ef95adc784ef8f8b3d2317a32e25b229
+SHA1: edd3d9058f6c2fc56537209d8f8ea2a21589423c
+SHA256: b4270fa6dc2bc23347e2682dc26e27fa267bb57b10fb540188c3c5cb26ab35bf
 Section: Tweaks
 Description: BETA version of WaveFlow Music Visualiser
  Waveflow is a music visualisation tweak for lockscreen, music app and spotify
