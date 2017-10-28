@@ -144,22 +144,23 @@ Author: Teggers
 Name: QuietMcTube
 
 Package: eu.teggers.waveflow2
-Version: 0.0.3-8+debug
+Version: 0.0.4-10+debug
 Architecture: iphoneos-arm
 Maintainer: George Stagg
-Installed-Size: 784
+Installed-Size: 788
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader
-Filename: deb_files/eu.teggers.waveflow2_0.0.3-8+debug_iphoneos-arm.deb
-Size: 131164
-MD5sum: ef95adc784ef8f8b3d2317a32e25b229
-SHA1: edd3d9058f6c2fc56537209d8f8ea2a21589423c
-SHA256: b4270fa6dc2bc23347e2682dc26e27fa267bb57b10fb540188c3c5cb26ab35bf
+Filename: deb_files/eu.teggers.waveflow2_0.0.4-10+debug_iphoneos-arm.deb
+Size: 133410
+MD5sum: 9004d5f1413a039be870e9b96b32f7ff
+SHA1: 51748392e8e013334aca0dba200d4c9f191d3907
+SHA256: 29f4b2b00d42e66b3475fbb35c807716133a8f06d5161799071b36e8371c892e
 Section: Tweaks
 Description: BETA version of WaveFlow Music Visualiser
  Waveflow is a music visualisation tweak for lockscreen, music app and spotify
  This tweak is unfortunately worked on slowly, whenever I can get time.
- Currently confirmed to work on my devices: iPhone 6, 10.2, iPad Air 2, 9.0.2.
+ Currently confirmed to work on: iPhone 6, 10.2; iPad Air 2, 9.0.2; iPhone 6s, 9.3.3.
  Reports of compatability with other devices are appriciated, email teggers@teggers.eu
+ v0.0.4: Hide on videos for iOS9/10. Makefile fixes.
  v0.0.3: Add back in some of the old iOS9 hooks.
  v0.0.2: Add Spotify hooks.
  v0.0.1: Basic system working
