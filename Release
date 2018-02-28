@@ -5,3 +5,6 @@ Version: 1.1
 Architecture: iphoneos-arm
 Components: main
 Description: Teggers Repo
+MD5Sum:
+  2eb2f4a776ff0b37b9250bc2b2165ac0 24 Packages
+  b6301cd224decf968d59e4d7fffa23e8 8 Packages.bz2
