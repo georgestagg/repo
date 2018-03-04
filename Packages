@@ -301,3 +301,26 @@ Description: WaveFlow Music Visualiser
 Author: George Stagg
 Name: WaveFlow2 BETA
 
+Package: eu.teggers.waveflow2
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: George Stagg
+Installed-Size: 564
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>=1.0.6~beta1), preferenceloader
+Conflicts: eu.teggers.waveflow
+Filename: ./deb_files/eu.teggers.waveflow2_2.2.4_iphoneos-arm.deb
+Size: 106554
+MD5sum: 4b864ef0fb84dd637e683f9c7dc50f86
+SHA1: b26f7657ec59238f8bc5e017831369aa0b28def9
+SHA256: a68f211ed24174635f18024e3db7c6210621db3f1d44b72eb2abfafb80827cd4
+Section: Tweaks
+Description: WaveFlow Music Visualiser
+ Waveflow is a music visualisation tweak for the lockscreen, Music app and Spotify, compatible with iOS 9/10.
+ Several options and colours are available in the preferences.
+ CHANGELOG:
+ - Begin iOS11 updates...
+ - Move LS Waveplot to background
+ - Compile with 10.1 SDK targeting 8.0
+Author: George Stagg
+Name: WaveFlow2 BETA
+
