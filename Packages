@@ -332,10 +332,10 @@ Installed-Size: 564
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>=1.0.6~beta1), preferenceloader
 Conflicts: eu.teggers.waveflow
 Filename: ./deb_files/eu.teggers.waveflow2_2.2.5_iphoneos-arm.deb
-Size: 106976
-MD5sum: d37e794b17873d5a7423353aeeb60fbc
-SHA1: 2e32ecc8b2fc604f4b299d7eb17cf13f07d40d97
-SHA256: 5973f840888036170f0a1d144dcd5cd3557a5de75bccb5763714a157c5a9e781
+Size: 106934
+MD5sum: e8fcb82e906985ae823ec1e18be44269
+SHA1: 0ea603ff1298398ba9d5da4b49b6b873800edf47
+SHA256: 7c76b694120c395c3521695135bc2f59630cce1dc01175d0aa07d9e829123865
 Section: Tweaks
 Description: WaveFlow Music Visualiser
  Waveflow is a music visualisation tweak for the lockscreen, Music app and Spotify, compatible with iOS 9/10.
